@@ -122,13 +122,12 @@
 
 .main_container {
   padding: 0 10px;
-  margin: 40px auto 0;
+  margin-block-start: 40px;
   color: var(--text-color);
   display: flex;
   flex-direction: column;
   gap: 50px;
   line-height: 130%;
-  max-inline-size: 1440px;
 }
 
 .section {
