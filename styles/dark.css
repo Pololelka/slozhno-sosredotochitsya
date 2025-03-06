@@ -15,5 +15,11 @@
   --accent-text-color: #000028;
   --accent-header-color: #DB00FF;
   --bg-color: #000028;
+  --opacity-accent-color: rgb(255 0 112 / 40%);
   --bg-image: url(../images/cover-image-dark.png);
+
+}
+
+.page.theme_dark .header__label {
+  display: block;
 }

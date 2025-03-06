@@ -10,6 +10,7 @@
   --accent-header-color: #DB00FF;
   --bg-color: #000028;
   --bg-image: url(../images/cover-image-dark.png);
+  --opacity-accent-color: rgb(255 0 112 / 40%);
 
-    --main-font: IBM Plex mono;
+  --main-font: 'IBM Plex mono';
 }

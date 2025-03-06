@@ -13,6 +13,7 @@
     --accent-text-color: #353430;
     --accent-header-color: #FFC2E6;
     --bg-color: #FFF1F7;
+    --opacity-accent-color: rgb(53 52 48 / 40%);
     --bg-image: url(../images/cover-image-light.png);
   }
 
@@ -32,6 +33,7 @@
   --accent-text-color: #353430;
   --accent-header-color: #FFC2E6;
   --bg-color: #FFF1F7;
+  --opacity-accent-color: rgb(53 52 48 / 40%);
   --bg-image: url(../images/cover-image-light.png);
 }
 
